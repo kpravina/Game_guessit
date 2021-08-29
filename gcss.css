@@ -1,0 +1,22 @@
+body{
+
+    background-color:blueviolet; 
+    /* url("https://thumbs.dreamstime.com/b/colorful-magnetic-numbers-light-green-background-flat-lay-224348404.jpg"); */
+    text-align: center;
+    font-size:70px;
+    color: rgb(238, 227, 227);
+    font-weight:bolder;
+    font-family: 'Rampart One';
+    
+    margin-top: 25px auto;
+    font-style: italic;
+}
+input,button{
+font-size: xx-large;
+border-radius: 20px solid;
+padding: 10px;
+/* box-sizing: inherit; */
+
+
+}
+
